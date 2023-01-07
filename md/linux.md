@@ -37,4 +37,4 @@ sudo ip route del default
 
 or restart your system =)
 
->todo find a way to restart network service
+>todo find a way to restart the network service
